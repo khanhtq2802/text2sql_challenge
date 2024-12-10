@@ -16,14 +16,14 @@ You can get the train and test set in [here](./dataset)
 |-- id: integer                            Data record id
 |-- domain: string                         Domain/vertical (e.g., aerospace)
 |-- domain_description: string             Domain/vertical data description
-|-- sal_complexity: string                 SQL code complexity label
+|-- sql_complexity: string                 SQL code complexity label
 |-- sql_complexity_description: string     SQL code complexity description
 |-- sql_task_type: string                  Type of SQL task being performed
-|-- sal_task_type_description: string      Description of the Sel task type
+|-- sal_task_type_description: string      Description of the SQL task type
 |-- sql_prompt: string                     Natural language SQL prompt
 |-- sql_context: string                    Context for the SQL prompt
 |-- sql: string                            SQL corresponding to the SQL prompt
-|-- sal_explanation: string                Explanation of the seL query
+|-- sql_explanation: string                Explanation of the SQL query
 ```
 
 *Note: The output evaluation will use the `sql` attribute to calculate BLEU score*
