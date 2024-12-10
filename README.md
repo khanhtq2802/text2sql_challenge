@@ -74,9 +74,9 @@ Submit a `json` file named `results.json` following the format provided below:
 ...
 ```
 
-**!!!IMPORTANT**: Use only the provided training data to build the model. **Do not use** any external data.
+**!!!IMPORTANT**: Use only the provided training data to build the model. **Do not use** any external data. Your submission need to at least surpass the baseline score.
 
-*Please send the submission to me via direct message on Teams* 
+*Please send the submission to me via direct message on Teams*
 
 
 ## Leaderboard
@@ -91,4 +91,6 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |20224948|0|
 |20235139|0|
 |20235260|0|
+|Baseline|to be update|
 
+## Deadline: 23h59 23/12/2024
