@@ -83,14 +83,14 @@ Submit a `json` file named `results.json` following the format provided below:
 
 Your submission score will be shown in the leaderboard below. The highest score is in bold.
 
-|StudentID|Score|
-|:---|:---|
-|20224983|0|
-|20224899|0|
-|20235049|0|
-|20224948|0|
-|20235139|0|
-|20235260|0|
-|Baseline|to be update|
+|StudentID|Score|Best score|
+|:---|:---|:---|
+|20224983|0| |
+|20224899|0| |
+|20235049|0| |
+|20224948|0| |
+|20235139|0| |
+|20235260|0| |
+|Baseline|to be update| |
 
 ## Deadline: 23h59 23/12/2024
