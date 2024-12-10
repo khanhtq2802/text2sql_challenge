@@ -5,7 +5,12 @@ Challenge: Build an AI model to generate SQL query from given user requirement a
 ## Dataset and Evaluation
 
 ### Dataset
+
 You can get the train and test set in [here](./dataset)
+
+- 105,851 records partitioned into 100,000 train and 5,851 test records
+- Database context, including table and view create statements
+- Natural language explanations of what the SQL query is doing
 
 ```
 |-- id: integer                            Data record id
