@@ -74,6 +74,7 @@ Submit a `json` file named `results.json` following the format provided below:
 ...
 ```
 
+**!IMPORTANT**: Chỉ sử dụng dữ liệu train được cung cấp để xây dựng mô hình. **Không sử dụng** bất kỳ dữ liệu ngoài nào.
 *Please send the submission to me via direct message on Teams* 
 
 
