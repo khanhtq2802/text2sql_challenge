@@ -85,7 +85,7 @@ Your submission score will be shown in the leaderboard below. The highest score 
 
 |StudentID|Score|Best score|
 |:---|:---|:---|
-|20224983|0| |
+|20224983| 14.51 | 14.51 |
 |20224899|0| |
 |20235049|0| |
 |20224948|0| |
