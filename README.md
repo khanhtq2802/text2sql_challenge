@@ -1,4 +1,4 @@
-# text2sql_challenge
+# Text2SQL Challenge
 
 Challenge: Build an AI model to generate SQL query from given user requirement and context.
 
@@ -74,9 +74,9 @@ Submit a `json` file named `results.json` following the format provided below:
 ...
 ```
 
-**!!!IMPORTANT**: Use only the provided training data to build the model. **Do not use** any external data. Your submission needs to at least surpass the baseline score.
+**!!!IMPORTANT**: You can use the provided training data to build the model or any external source (**except testing data** of course). Your submission needs to at least surpass the baseline score.
 
-*Please send the submission to me via direct message on Teams*
+*Please send the submission to my assigned folder to each team*
 
 
 ## Leaderboard
@@ -85,14 +85,16 @@ Your submission score will be shown in the leaderboard below. The highest score 
 
 |StudentID|Score|Best score|
 |:---|:---:|:---:|
-|20224983| 14.52 | 14.52 |
-|20224899| 55.23 | 55.23 |
-|20235049|0| |
-|20224948|0| |
-|20235139|0| |
-|20235260| 62.57 | **62.57** |
-|20225271|0| |
-|20225363|0| |
-|Baseline|to be update| |
+|Group 1| | |
+|Group 2| | |
+|Group 3| | |
+|Group 4| | |
+|Group 5| | |
+|Group 6| | |
+|Group 7| | |
+|Group 8| | |
+|Group 9| | |
+|Group 10| | |
+|Baseline|**55.23**| |
 
 ## Deadline: 23h59 23/12/2024
