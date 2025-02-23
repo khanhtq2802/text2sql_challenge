@@ -76,7 +76,7 @@ Submit a `json` file named `results.json` following the format provided below:
 
 **!!!IMPORTANT**: You can use the provided training data to build the model or any external source (**except testing data** of course). Your submission needs to at least surpass the baseline score.
 
-*Please send the submission to my assigned folder to each team*
+*Please upload the submission to my assigned folder to each team. There is no restriction on the number of submissions. I will continuously update the Leaderboard based on your most recent submissions.*
 
 
 ## Leaderboard
