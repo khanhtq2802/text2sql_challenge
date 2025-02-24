@@ -63,6 +63,7 @@ How to use? See [here](https://huggingface.co/spaces/evaluate-metric/bleu) for m
 >>> results = bleu.compute(predictions=predictions, references=references)
 >>> print(results)
 ```
+_Note:_ The score obtained using the test set is not your final score; you will have a final evaluation on the last day of the topic. Focus on ensuring your model generalizes well.
 
 ## Submission
 
