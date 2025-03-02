@@ -100,4 +100,4 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |Group 10| | |
 |Baseline|55.23| |
 
-## Deadline: 23h59 23/12/2024
+## Deadline: 23h59 15/02/2025
