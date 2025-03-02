@@ -95,9 +95,9 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |Group 5| | |
 |Group 6| | |
 |Group 7| | |
-|Group 8| | |
+|Group 8| 57.30 | **57.30** |
 |Group 9| | |
 |Group 10| | |
-|Baseline|**55.23**| |
+|Baseline|55.23| |
 
 ## Deadline: 23h59 23/12/2024
