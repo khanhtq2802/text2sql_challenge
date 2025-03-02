@@ -70,8 +70,8 @@ _Note:_ The score obtained using the test set is not your final score; you will 
 Submit a `json` file named `results.json` following the format provided below:
 
 ```jsonlines
-{'id': 1, 'answer': 'SELECT * FROM tbo.CUSTOMERS'}
-{'id': 2, 'answer': 'SELECT * QLDT'}
+{"id": 1, "answer": "SELECT * FROM tbo.CUSTOMERS"}
+{"id": 2, "answer": "SELECT * QLDT"}
 ...
 ```
 
