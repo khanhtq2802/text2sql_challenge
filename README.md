@@ -70,12 +70,12 @@ _Note:_ The score obtained using the test set is not your final score; you will 
 Submit a `json` file named `results.json` following the format provided below:
 
 ```jsonlines
-{'id': 1, 'answer': 'SELECT * FROM tbo.CUSTOMERS'}
-{'id': 2, 'answer': 'SELECT * QLDT'}
+{"id": 1, "answer": "SELECT * FROM tbo.CUSTOMERS"}
+{"id": 2, "answer": "SELECT * QLDT"}
 ...
 ```
 
-**!!!IMPORTANT**: You can use the provided training data to build the model or any external source (**except testing data** of course). Your submission needs to at least surpass the baseline score.
+**!!!IMPORTANT**: You free to use the provided training data to build the model or any external source (**except testing data** of course). Your submission needs to at least surpass the baseline score.
 
 *Please upload the submission to the assigned folder to each team. There is no restriction on the number of submissions. I will continuously update the Leaderboard based on your most recent submissions.*
 
@@ -90,14 +90,14 @@ Your submission score will be shown in the leaderboard below. The highest score 
 |:---|:---:|:---:|
 |Group 1| | |
 |Group 2| | |
-|Group 3| | |
-|Group 4| | |
+|Group 3| 60.02 | **60.02** |
+|Group 4| 42.55 | 42.55 |
 |Group 5| | |
-|Group 6| | |
+|Group 6| 46.21 | 46.21 |
 |Group 7| | |
-|Group 8| | |
+|Group 8| 57.30 | 57.30 |
 |Group 9| | |
 |Group 10| | |
-|Baseline|**55.23**| |
+|Baseline|55.23| |
 
-## Deadline: 23h59 23/12/2024
+## Deadline: 23h59 15/02/2025
